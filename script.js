@@ -56,7 +56,7 @@ rollDice.addEventListener("click", function () {
 });
 holdDice.addEventListener("click", function () {
   score[activePlayer] += currentScore;
-
+  console.log(activePlayer);
   document.getElementById(`score--${activePlayer}`).textContent =
     score[activePlayer];
   switchPlayer();
