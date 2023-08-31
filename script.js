@@ -3,12 +3,10 @@ const rollDice = document.querySelector(".btn--roll");
 const holdDice = document.querySelector(".btn--hold");
 const newGame = document.querySelector(".btn--new");
 const diceEl = document.querySelector(".dice");
-
 const scoreEl0 = document.querySelector("#score--0");
 const scoreEl1 = document.querySelector("#score--1");
 const currentEl0 = document.querySelector("#current--0");
 const currentEl1 = document.querySelector("#current--1");
-
 const player0El = document.querySelector(".player--0");
 const player1El = document.querySelector(".player--1");
 
