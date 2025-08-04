@@ -28,7 +28,5 @@ A fun and interactive dice game built using **HTML**, **CSS**, and **Vanilla Jav
 - CSS3
 - JavaScript (ES6)
 
----
 
-## 📁 Project Structure
 
